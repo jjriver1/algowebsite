@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# 👋 Welcome to BOGO-Sort Gambling
+
+## 💵 Description
+A BOGO-Sort Gambling website where you can gamble on the outcome of the algorithm!
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +73,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## 🖊️ Author
+👤 **Jonathan Rivera**
+
+* Github 🤖: [@jjriver1](https://github.com/jjriver1)
+
+## 🤝 Contributing
+Contributions, issues and feature requests are welcome! Feel free to check the [issues page](put link here to issues page later)
+
